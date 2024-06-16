@@ -61,7 +61,7 @@ function longestSubstring(str, k) {
   return maxLength;
 }
 
-console.log(charFrequency);
+// console.log(charFrequency);
 console.log(longestSubstring("abcbcefg", 3));
 /*
 
